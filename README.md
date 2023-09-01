@@ -12,6 +12,6 @@ For init and add new Project::
 7. run ```git commit -m "massage"``` to commit all the changes and add the commit massage.
 8. run ```ssh-keygen -t rsa``` to generate the the SSH key pair.
 9. Copy the SSH public key from stored in local hidden folder named ```.ssh``` and past in ```github.com-> profile-> setting-> SSH and GPG keys-> new SSH key```.
-10.Create repo on github.
-11.Clone repo from ```github.com-> repo -> code-> SSH```, Copy the string and run ```git remote add origin <copied string>```.
-12.Push the changes into repo with ```git push origin <branch_name>``` command.
+10. Create repo on github.
+11. Clone repo from ```github.com-> repo -> code-> SSH```, Copy the string and run ```git remote add origin <copied string>```.
+12. Push the changes into repo with ```git push origin <branch_name>``` command.
